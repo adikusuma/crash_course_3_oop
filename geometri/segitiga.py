@@ -13,3 +13,4 @@ class Segitiga(BangunRuang):
 
     def hitung_luas(self):
         return self.alas * self.tinggi / 2
+
